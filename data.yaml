@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/ML_Workspace/Projects/Project-8 (Object Detection)/raccoon_dataset/train
+val: /content/drive/MyDrive/ML_Workspace/Projects/Project-8 (Object Detection)/raccoon_dataset/valid
+test: /content/drive/MyDrive/ML_Workspace/Projects/Project-8 (Object Detection)/raccoon_dataset/test
+
+nc: 1
+names: ['raccoon']
